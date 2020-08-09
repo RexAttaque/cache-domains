@@ -56,6 +56,11 @@
 			"domain_files": ["nintendo.txt"]
 		},
 		{
+			"name": "Oculus",
+			"description": "CDN for oculus",
+			"omain_files": ["oculus.txt"]
+		},
+		{
 			"name": "origin",
 			"description": "CDN for origin",
 			"notes": "Should be enabled for HTTP traffic only or with a HTTPS proxy else origin client download fails",

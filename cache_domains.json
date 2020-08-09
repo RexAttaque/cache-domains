@@ -58,7 +58,7 @@
 		{
 			"name": "Oculus",
 			"description": "CDN for oculus",
-			"omain_files": ["oculus.txt"]
+			"domain_files": ["oculus.txt"]
 		},
 		{
 			"name": "origin",
